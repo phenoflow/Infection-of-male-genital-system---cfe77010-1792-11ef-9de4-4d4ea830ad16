@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/infection-of-male-genital-system-balanoposthitis---secondary.py
+inputModule3:
+  class: File
+  path: python/infection-of-male-genital-system-orchitis---secondary.py
+inputModule4:
+  class: File
+  path: python/infection-of-male-genital-system---secondary.py
+inputModule5:
+  class: File
+  path: python/infection-of-male-genital-system-prostatocystitis---secondary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
